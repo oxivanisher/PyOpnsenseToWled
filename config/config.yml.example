@@ -1,0 +1,13 @@
+---
+
+ostowled:
+    update_rate: 0.75
+
+opnsense:
+    url: https://192.168.1.1/api/routes/gateway/status
+    api_key:
+    api_secret:
+    gateway_name: WAN_DHCP
+
+wled:
+    host:
